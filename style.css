@@ -72,4 +72,15 @@ footer div ul li a p {
 }
 .social-icons {
     margin-top: 20px;
+    margin-left: 125px;
+}
+#images {
+    margin-top: 30px;
+}
+table tr td img {
+    margin-left: 305px;
+    margin-top: 10px;
+}
+#main-image {
+    margin-top: 10px;
 }
